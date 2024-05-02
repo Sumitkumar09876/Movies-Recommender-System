@@ -21,10 +21,10 @@ The dataset used in this project is the TMDB 5000 Movies Dataset, which consists
 ## Screenshots
 
 ![Screenshot 1](screenshots/screenshot1.png)
-*Description of screenshot 1*
+*Enter the Name fo the Movie*
 
 ![Screenshot 2](screenshots/screenshot2.png)
-*Description of screenshot 2*
+*Top 5 movies are recommended*
 
 ## How to Use
 
